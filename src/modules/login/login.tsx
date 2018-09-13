@@ -31,7 +31,7 @@ class Login extends React.Component {
                                  height="150px"/>
                             <div className="card-body">
                                 <h5 className="card-title">{person.login}</h5>
-                                <a href={person.html_url} target="_blank">Enlace a repositorio</a>
+                                <a href={person.html_url} target="_blank">Enlace a repositorio</a><br/>
                                 <button className="btn btn-primary">Ver repositorios</button>
                             </div>
                         </div>

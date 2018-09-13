@@ -41,7 +41,7 @@
           <entry key="css" value="24" />
           <entry key="json" value="13" />
           <entry key="ts" value="40" />
-          <entry key="tsx" value="1106" />
+          <entry key="tsx" value="1120" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -49,7 +49,7 @@
           <entry key="CSS" value="24" />
           <entry key="JSON" value="13" />
           <entry key="TypeScript" value="40" />
-          <entry key="TypeScript JSX" value="1106" />
+          <entry key="TypeScript JSX" value="1120" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -74,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/modules/login/login.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="25" column="68" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
+            <state relative-caret-position="221">
+              <caret line="30" column="49" lean-forward="true" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -321,18 +321,18 @@
       <workItem from="1536800209027" duration="3650000" />
       <workItem from="1536808201977" duration="1694000" />
       <workItem from="1536809907534" duration="2564000" />
-      <workItem from="1536868580115" duration="9241000" />
+      <workItem from="1536868580115" duration="9470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18866000" />
+    <option name="totallyTimeSpent" value="19095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="12" width="1472" height="792" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24878049" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24878049" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -347,7 +347,7 @@
       <window_info anchor="bottom" id="TypeScript" order="8" weight="0.25314465" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.22955975" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.25157234" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.25157234" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -517,8 +517,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/modules/login/login.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="25" column="68" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
+        <state relative-caret-position="221">
+          <caret line="30" column="49" lean-forward="true" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>

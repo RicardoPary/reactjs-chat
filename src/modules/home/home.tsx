@@ -2,7 +2,7 @@ import axios from 'axios';
 import * as React from 'react';
 import {IUser} from "../../shared/model/user.model";
 
-class Login extends React.Component {
+class Home extends React.Component {
 
     public state = {
         persons: [] as ReadonlyArray<IUser>
@@ -40,4 +40,4 @@ class Login extends React.Component {
     }
 }
 
-export default Login;
+export default Home;

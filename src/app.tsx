@@ -1,7 +1,7 @@
 import * as React from 'react';
 import './app.css';
 
-import Login from "./modules/login/login";
+import Home from "./modules/home/home";
 import Footer from "./shared/layout/footer/footer";
 import Header from "./shared/layout/header/header";
 
@@ -10,7 +10,7 @@ class App extends React.Component {
         return (
             <div className="App">
                 <Header/>
-                <Login/>
+                <Home/>
                 <Footer/>
             </div>
         );

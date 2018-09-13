@@ -23,7 +23,7 @@ class Login extends React.Component {
             <div className="Login">
                 <div className="row">
                     {this.state.persons.map((person, i) => (
-                        <div key={`user-${i}`} className="card col-3">
+                        <div key={`user-${i}`} className="card col-2" style={{margin: '10px'}}>
                             <img className="card-img-top"
                                  src={person.avatar_url}
                                  alt="Card image cap"

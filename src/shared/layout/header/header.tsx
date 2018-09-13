@@ -7,7 +7,7 @@ class Header extends React.Component {
     public render() {
         return (
             <div className="Header">
-                <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+                <nav className="navbar navbar-expand-lg navbar-dark bg-dark" style={{marginBottom: '15px'}}>
                     <img src={logo} className="App-logo" alt="logo"/>
                     <button className="navbar-toggler" type="button" data-toggle="collapse"
                             data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"

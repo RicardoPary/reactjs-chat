@@ -11,8 +11,6 @@ class Login extends React.Component {
     public componentDidMount() {
         axios.get(`https://api.github.com/users`)
             .then(res => {
-
-                console.log(res);
                 const persons = res.data;
                 this.setState({persons});
             })

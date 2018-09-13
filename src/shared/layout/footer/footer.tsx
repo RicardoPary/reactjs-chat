@@ -5,7 +5,7 @@ class Footer extends React.Component {
     public render() {
         return (
             <div className="footer page-content">
-                FOOTER
+                © 2018 Insite. All rights reserved.
             </div>
         );
     }

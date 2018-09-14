@@ -4,7 +4,7 @@ class Repository extends React.Component {
 
     public render() {
         return (
-            <div className="Login">
+            <div className="Repository">
                 <p>repositories</p>
             </div>
         );

@@ -1,15 +1,17 @@
 import * as React from 'react';
 import {Route, Switch} from "react-router-dom";
 
+import App from "./app";
 import Home from "./modules/home/home";
 import Repository from "./modules/repository/repository";
 
 const Routes = () => (
-    <div>
+    <App>
         <Switch>
             <Route path="/home" component={Home}/>
-            <Route path="/repository" component={Repository}/>w
+            <Route path="/repository" component={Repository}/>
+            <Route path="/" component={Home}/>
         </Switch>
-    </div>
+    </App>
 );
 export default Routes;
